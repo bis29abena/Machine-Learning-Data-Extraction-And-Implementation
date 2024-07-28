@@ -1,0 +1,13 @@
+*.jpeg
+*.png
+
+*.data
+*.csv
+*.names
+
+
+bak
+
+data/
+
+.ipynb_checkpoints/
